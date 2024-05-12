@@ -1,0 +1,9 @@
+.carousel{
+   width: 500px;
+   height: fit-content;
+   padding-left: 30%;
+   padding-right: 30%;
+}
+.c-label{
+   color: blue;
+}
